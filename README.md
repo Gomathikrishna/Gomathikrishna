@@ -39,20 +39,20 @@
 
 <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap; padding: 20px;">
   <!-- Book 1 -->
-  <div style="text-align: center; width: 200px;">
+  <div style="text-align: center; width: 120px;">  <!-- Reduced from 200px to 120px -->
     <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" 
          alt="Dynamics 365 Business Central Developer Certification Companion" 
-         style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="width: 100%; height: auto; max-height: 160px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/" 
-       style="display: block; margin-top: 15px; font-size: 16px; color: #0078D4; text-decoration: none; padding: 8px 16px; background-color: #f0f0f0; border-radius: 5px; transition: background-color 0.3s;">Buy Now</a>
+       style="display: block; margin-top: 10px; font-size: 14px; color: #0078D4; text-decoration: none; padding: 5px 10px; background-color: #f0f0f0; border-radius: 5px; transition: background-color 0.3s;">Buy Now</a>
   </div>
 
   <!-- Book 2 -->
-  <div style="text-align: center; width: 200px;">
+  <div style="text-align: center; width: 120px;">  <!-- Reduced from 200px to 120px -->
     <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" 
          alt="Mastering Microsoft Dynamics Business Central" 
-         style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="width: 100%; height: auto; max-height: 160px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/" 
-       style="display: block; margin-top: 15px; font-size: 16px; color: #0078D4; text-decoration: none; padding: 8px 16px; background-color: #f0f0f0; border-radius: 5px; transition: background-color 0.3s;">Buy Now</a>
+       style="display: block; margin-top: 10px; font-size: 14px; color: #0078D4; text-decoration: none; padding: 5px 10px; background-color: #f0f0f0; border-radius: 5px; transition: background-color 0.3s;">Buy Now</a>
   </div>
 </div>
