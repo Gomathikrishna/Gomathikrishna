@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Certification%20Transcript-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Certification Transcript" />
 </a>
 
-
+<br>
 
 
   <a href="https://beacons.ai/techtutorial" target="_blank" rel="noopener noreferrer">
