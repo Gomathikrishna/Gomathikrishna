@@ -35,5 +35,27 @@
 😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖<br>
 <hr>
 
+<section id="books">
+  <h2 style="text-align: center; font-family: Arial, sans-serif;">📚 Authored Books 📚</h2>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+    <!-- Book 1 -->
+    <div style="text-align: center; font-family: Arial, sans-serif;">
+      <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" alt="Book 1" style="width: 200px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <br>
+      <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Z1oKJwOtrm8UGdUjKVfngm75g0I0k6lK6V6lJAkAA-NXmK6abSPHJNCNCYd7xt0sGk68LSRKj47AmfxT5Tk06w._hfJnxmWnBwrrkWp4bnrO7XsjAztJiG71g2-NdorCxY&dib_tag=se&keywords=Dynamics+365+Business+Central+Developer+Certification+Companion&qid=1731246894&sr=8-1" 
+         target="_blank" 
+         style="display: inline-block; margin-top: 10px; font-size: 16px; color: #0078D4; text-decoration: none; font-weight: bold;">Buy Now</a>
+    </div>
+
+    <!-- Book 2 -->
+    <div style="text-align: center; font-family: Arial, sans-serif;">
+      <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" alt="Book 2" style="width: 200px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <br>
+      <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/ref=sr_1_1?crid=MMJV3FAM2YJA&dib=eyJ2IjoiMSJ9.zyBYL9JH2pwEdALQaVmO9ZvDqb_X35q0iyPUWtKUDqXmEBQg2RXP_dSksPayvfXDyq3MboazEjHahTdzNlBexQXeIFvUucDSoNoL9USSFzlkmANjy0GO49k7LjqXw_HK2Wx6fAu-TdjkyrWBaeIbI9rWxmY9RN6P_LUG1FVaheu6V-ytxYUK9ZCqTTDde4lrxUSgrhzfiumZ96DwUGZbY923E_005fb2iYDi8SLlWLI.sCtcs5SkC6IxDmVWzofdGSPjT5XdbFnrTZcZLaSKWXI&dib_tag=se&keywords=Business+central+implementation+guide&qid=1732438971&s=books&sprefix=business+central+implementation+guid%2Cstripbooks%2C244&sr=1-1-catcorr" 
+         target="_blank" 
+         style="display: inline-block; margin-top: 10px; font-size: 16px; color: #0078D4; text-decoration: none; font-weight: bold;">Buy Now</a>
+    </div>
+  </div>
+</section>
 
 
