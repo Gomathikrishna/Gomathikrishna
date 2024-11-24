@@ -1,5 +1,15 @@
 # Hi there I am Dr. Gomathi 👋
 
+✨ Welcome to my tech world! ✨
+🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
+📚 I've also authored two books to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
+
+🌟 I specialize in Business Central, Power BI, and helping people unlock their potential with Microsoft technologies.
+💻 "Learning never stops, and together, we can achieve more!" 🚴‍♀️
+
+🌟 Let's connect, grow, and innovate together! 🌍
+😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖
+
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.youtube.com/@gomstechtalks?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
