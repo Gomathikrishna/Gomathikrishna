@@ -38,21 +38,15 @@
 # 📚 Authored Books 📚
 
 <div align="center">
-  <!-- Book 1 -->
-  <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="250" alt="Dynamics 365 Book">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/│-lightgray?style=flat&labelColor=lightgray" height="250" alt="divider">
-  &nbsp;&nbsp;
-  <!-- Book 2 -->
-  <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="250" alt="Mastering Business Central Book">
+  <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="300" alt="Dynamics 365 Business Central Developer Certification Companion">
+  <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="300" alt="Mastering Microsoft Dynamics Business Central">
+</div>
 
-  <!-- Buy Now buttons -->
-  <br><br>
+<div align="center">
   <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/">
-    <img src="https://img.shields.io/badge/BUY_NOW-BOOK_1-0077B5?style=for-the-badge" alt="Buy Book 1">
+    <img src="https://img.shields.io/badge/Buy%20Now-Book%201-blue" alt="Buy Book 1">
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/">
-    <img src="https://img.shields.io/badge/BUY_NOW-BOOK_2-0077B5?style=for-the-badge" alt="Buy Book 2">
+    <img src="https://img.shields.io/badge/Buy%20Now-Book%202-blue" alt="Buy Book 2">
   </a>
 </div>
