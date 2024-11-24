@@ -1,4 +1,4 @@
-# Hi there I am Dr. Gomathi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="50" height="60"/>
+# Hi there I am Dr. Gomathi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="20" height="20"/>
 
 ✨ Welcome to my tech world! ✨ <br>
 🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
