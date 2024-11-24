@@ -35,18 +35,32 @@
 😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖<br>
 <hr>
 
-## 📚 Authored Books 📚
+# 📚 Authored Books 📚
 
-<div align="center">
-  <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="300" alt="Dynamics 365 Business Central Developer Certification Companion">
-  <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="300" alt="Mastering Microsoft Dynamics Business Central">
-</div>
+<div align="center" style="background: linear-gradient(to bottom, #f5f5f5, #e0e0e0); padding: 40px; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+    <!-- Book 1 -->
+    <div style="text-align: center;">
+      <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="250" alt="Dynamics 365 Book" style="border-radius: 8px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotate(-3deg);">
+      <br>
+      <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/">
+        <img src="https://img.shields.io/badge/Buy_Now-Book_1-2ea44f?style=for-the-badge" alt="Buy Book 1">
+      </a>
+    </div>
 
-<div align="center">
-  <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/">
-    <img src="https://img.shields.io/badge/Buy%20Now-Book%201-blue" alt="Buy Book 1">
-  </a>
-  <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/">
-    <img src="https://img.shields.io/badge/Buy%20Now-Book%202-blue" alt="Buy Book 2">
-  </a>
+    <!-- Decorative Divider -->
+    <div style="height: 300px; width: 3px; background: linear-gradient(to bottom, #8b4513, #d2691e); box-shadow: 2px 0 5px rgba(0,0,0,0.2);"></div>
+
+    <!-- Book 2 -->
+    <div style="text-align: center;">
+      <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="250" alt="Mastering Business Central Book" style="border-radius: 8px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); transform: rotate(3deg);">
+      <br>
+      <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/">
+        <img src="https://img.shields.io/badge/Buy_Now-Book_2-2ea44f?style=for-the-badge" alt="Buy Book 2">
+      </a>
+    </div>
+  </div>
+
+  <!-- Decorative Shelf -->
+  <div style="margin-top: 20px; height: 20px; background: linear-gradient(to bottom, #8b4513, #654321); border-radius: 5px 5px 0 0; box-shadow: 0 -5px 10px rgba(0,0,0,0.2);"></div>
 </div>
