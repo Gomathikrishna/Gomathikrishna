@@ -37,25 +37,22 @@
 
 # 📚 Authored Books 📚
 
-
 <div align="center">
   <!-- Book 1 -->
   <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="250" alt="Dynamics 365 Book">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%7C-darkgray" height="250">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/│-lightgray?style=flat&labelColor=lightgray" height="250" alt="divider">
+  &nbsp;&nbsp;
   <!-- Book 2 -->
   <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="250" alt="Mastering Business Central Book">
 
   <!-- Buy Now buttons -->
   <br><br>
   <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/">
-    <img src="https://img.shields.io/badge/Buy_Now-Book_1-blue?style=for-the-badge" alt="Buy Book 1">
+    <img src="https://img.shields.io/badge/BUY_NOW-BOOK_1-0077B5?style=for-the-badge" alt="Buy Book 1">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/">
-    <img src="https://img.shields.io/badge/Buy_Now-Book_2-blue?style=for-the-badge" alt="Buy Book 2">
+    <img src="https://img.shields.io/badge/BUY_NOW-BOOK_2-0077B5?style=for-the-badge" alt="Buy Book 2">
   </a>
 </div>
-
----
