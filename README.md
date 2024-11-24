@@ -38,6 +38,7 @@
 <section id="books">
   <h2 style="text-align: center; font-family: Arial, sans-serif;">📚 Authored Books 📚</h2>
   <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+    
     <!-- Book 1 -->
     <div style="text-align: center; font-family: Arial, sans-serif;">
       <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" alt="Book 1" style="width: 200px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
@@ -57,4 +58,3 @@
     </div>
   </div>
 </section>
-
