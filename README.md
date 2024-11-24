@@ -37,6 +37,8 @@
 
 ## 📚 Authored Books 📚
 
+## 📚 Authored Books 📚
+
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 
   <!-- Book 1 -->
