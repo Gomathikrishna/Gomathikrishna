@@ -10,6 +10,11 @@
   <a href="https://topmate.io/drgomathi_gomstechtalks" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Schedule%20a%20Call-%2333CC99.svg?style=for-the-badge&logo=kalender&logoColor=white" alt="Schedule a Call" />
   </a>
+ <a href="https://learn.microsoft.com/en-us/users/drsgomathi-3925/transcript/734e9akolqyzq0x?tab=tab-challenges&source=docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call-%2333CC99.svg?style=for-the-badge&logo=kalender&logoColor=white" alt="Schedule a Call" />
+  </a>
+
+
   <a href="https://beacons.ai/techtutorial" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/E--book%20Store-%23FFA500.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="E-book Store" />
   </a>
