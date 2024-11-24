@@ -2,13 +2,13 @@
 
 ✨ Welcome to my tech world! ✨ <br>
 🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
-📚 I've also authored two books to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
+<br>📚 I've also authored two books to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
 
-🌟 I specialize in Business Central, Power BI, and helping people unlock their potential with Microsoft technologies.
+🌟 I specialize in Business Central, Power BI, and helping people unlock their potential with Microsoft technologies. <br>
 💻 "Learning never stops, and together, we can achieve more!" 🚴‍♀️
 
-🌟 Let's connect, grow, and innovate together! 🌍
-😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖
+🌟 Let's connect, grow, and innovate together! 🌍<br>
+😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖<br>
 
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -34,3 +34,4 @@
     <img src="https://img.shields.io/badge/Learn%20More-%23007ACC.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Learn More" />
   </a>
 </div>
+<hr>
