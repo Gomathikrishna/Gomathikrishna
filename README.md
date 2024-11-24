@@ -47,7 +47,7 @@
          style="display: inline-block; margin-top: 10px; font-size: 16px; color: #0078D4; text-decoration: none; font-weight: bold;">Buy Now</a>
     </div>
 
-    <!-- Book 2 -->
+  
     <div style="text-align: center; font-family: Arial, sans-serif;">
       <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" alt="Book 2" style="width: 200px; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
       <br>
