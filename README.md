@@ -37,7 +37,7 @@
 
 <section id="books">
   <h2 style="text-align: center; font-family: Arial, sans-serif;">📚 Authored Books 📚</h2>
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+  <div style="display: flex; justify-content: center; gap: 30; flex-wrap: wrap; margin-top: 20;">
     
     <!-- Book 1 -->
     <div style="text-align: center; font-family: Arial, sans-serif;">
