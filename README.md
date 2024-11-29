@@ -78,7 +78,7 @@
 - [For Researchers](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLPWZoyOhI1yikOnNxIeYny)
 
 <div align="right">
-  <a href="https://www.youtube.com/@drgomathis">
+  <a href="https://www.youtube.com/@gomstechtalks?sub_confirmation=1">
     <img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube">
   </a>
 </div>
