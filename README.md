@@ -42,21 +42,10 @@
 😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖<br>
 <hr>
 
-# 📚 Authored Books 📚
+## 📚 Authored Books 📚
 
-<div align="center">
-  <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="300" alt="Dynamics 365 Business Central Developer Certification Companion">
-  <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="300" alt="Mastering Microsoft Dynamics Business Central">
-</div>
+<div align="center"> <!-- Row 1 --> <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="260" alt="Dynamics 365 Business Central Developer Certification Companion"> <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="260" alt="Mastering Microsoft Dynamics Business Central"> <img src="https://m.media-amazon.com/images/I/61DkxPvSStL._SY385_.jpg" width="260" alt="GitHub Copilot Step by Step"> </div> <br/> <div align="center"> <!-- Row 2 --> <img src="https://m.media-amazon.com/images/I/71dy6ehc-XL._SY466_.jpg" width="260" alt="Microsoft Fabric Analytics Engineer Associate Certification Companion"> <img src="https://m.media-amazon.com/images/I/51EkHX+WebL._SY466_.jpg" width="260" alt="Microsoft Dynamics 365 Business Central Essentials"> </div> <br/> <div align="center"> <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/"> <img src="https://img.shields.io/badge/Buy%20Now-Book%201-blue" alt="Buy Book 1"> </a> &nbsp; <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/"> <img src="https://img.shields.io/badge/Buy%20Now-Book%202-blue" alt="Buy Book 2"> </a> &nbsp; <a href="https://www.amazon.com/GitHub-Copilot-Step-Navigating-development-ebook/dp/B0FV35NV7X/"> <img src="https://img.shields.io/badge/Buy%20Now-Book%203-blue" alt="Buy Book 3"> </a> </div> <br/> <div align="center"> <a href="https://www.amazon.com/Microsoft-Analytics-Associate-Certification-Companion/dp/B0F457MRY6/"> <img src="https://img.shields.io/badge/Buy%20Now-Book%204-blue" alt="Buy Book 4"> </a> &nbsp; <a href="https://www.amazon.com/Microsoft-Dynamics-Business-Central-Essentials/dp/B0FW9ZKTMP"> <img src="https://img.shields.io/badge/Buy%20Now-Book%205-blue" alt="Buy Book 5"> </a> </div>
 
-<div align="center">
-  <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/">
-    <img src="https://img.shields.io/badge/Buy%20Now-Book%201-blue" alt="Buy Book 1">
-  </a>
-  <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/">
-    <img src="https://img.shields.io/badge/Buy%20Now-Book%202-blue" alt="Buy Book 2">
-  </a>
-</div>
 
 # 📺 Latest YouTube Videos and Playlists
 
