@@ -32,10 +32,10 @@
 </div>
 <hr>
 ✨ Welcome to my tech world! ✨ <br>
-🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
-<br>📚 I've also authored two books to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
+🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer) Community Lead, and Microsoft Learn Expert, Google for Education certified trainer, dedicated to empowering learners and professionals in the tech ecosystem.
+<br>📚 I've also authored five books to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
 
-🌟 I specialize in Business Central, Power BI, and helping people unlock their potential with Microsoft technologies. <br>
+🌟 I specialize in Business Central, Power BI, data visualization tool and helping people unlock their potential with Microsoft technologies. <br>
 💻 "Learning never stops, and together, we can achieve more!" 🚴‍♀️
 
 🌟 Let's connect, grow, and innovate together! 🌍<br>
